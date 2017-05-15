@@ -87,8 +87,8 @@
       <Line endX="50.0" layoutX="442.0" layoutY="761.0" />
       <Line endX="50.0" layoutX="375.0" layoutY="745.0" rotate="18.4" />
       <Line endX="50.0" layoutX="341.0" layoutY="708.0" rotate="90.0" />
-      <Rectangle fx:id="spot0" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="51.0" layoutX="137.0" layoutY="649.0" stroke="BLACK" strokeType="INSIDE" width="116.0" />
-      <Circle fx:id="spot1" fill="#ff4c7b" layoutX="171.0" layoutY="613.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Rectangle fx:id="spot0" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="51.0" layoutX="137.0" layoutY="649.0" onMouseClicked="#spotClicked" stroke="BLACK" strokeType="INSIDE" width="116.0" />
+      <Circle fx:id="spot1" fill="#ff4c7b" layoutX="171.0" layoutY="613.0" onMouseClicked="#spotClicked" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot2" fill="#ff4c7b" layoutX="154.0" layoutY="555.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot3" fill="#ff4c7b" layoutX="109.0" layoutY="511.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Rectangle fx:id="spot4" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="51.0" layoutX="137.0" layoutY="446.0" stroke="BLACK" strokeType="INSIDE" width="116.0" />
