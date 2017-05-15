@@ -6,7 +6,7 @@
 <?import javafx.scene.shape.Rectangle?>
 <?import javafx.scene.text.Text?>
 
-<AnchorPane prefHeight="800.0" prefWidth="1350.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1">
+<AnchorPane prefHeight="800.0" prefWidth="1350.0" xmlns="http://javafx.com/javafx/8.0.111" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.BoardController">
    <children>
       <Line endX="50.0" layoutX="157.0" layoutY="638.0" rotate="72.3" />
       <Line endX="50.0" layoutX="135.0" layoutY="581.0" rotate="73.1" />
@@ -137,8 +137,8 @@
       <Circle fx:id="spot46" fill="#003790" layoutX="1062.0" layoutY="429.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot47" fill="#003790" layoutX="930.0" layoutY="472.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot48" fill="#003790" layoutX="1004.0" layoutY="472.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1150.0" layoutY="342.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1161.0" layoutY="395.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fx:id="spot74" fill="#003790" layoutX="1150.0" layoutY="342.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fx:id="spot75" fill="#003790" layoutX="1161.0" layoutY="395.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot49" fill="#003790" layoutX="1150.0" layoutY="455.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot50" fill="#003790" layoutX="1150.0" layoutY="521.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot51" fill="#003790" layoutX="1086.0" layoutY="545.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
@@ -150,11 +150,11 @@
       <Circle fx:id="spot57" fill="#003790" layoutX="722.0" layoutY="691.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Rectangle fx:id="spot58" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="51.0" layoutX="568.0" layoutY="639.0" stroke="BLACK" strokeType="INSIDE" width="116.0" />
       <Circle fx:id="spot68" fill="#d20f2d" layoutX="633.0" layoutY="741.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="563.0" layoutY="758.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fx:id="spot69" fill="#d20f2d" layoutX="493.0" layoutY="758.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fx:id="spot70" fill="#d20f2d" layoutX="435.0" layoutY="758.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fx:id="spot80" fill="#d20f2d" layoutX="367.0" layoutY="732.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Rectangle fx:id="spot81" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="51.0" layoutX="283.0" layoutY="656.0" stroke="BLACK" strokeType="INSIDE" width="116.0" />
+      <Circle fx:id="spot69" fill="#d20f2d" layoutX="563.0" layoutY="758.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fx:id="spot70" fill="#d20f2d" layoutX="493.0" layoutY="758.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fx:id="spot71" fill="#d20f2d" layoutX="435.0" layoutY="758.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fx:id="spot72" fill="#d20f2d" layoutX="367.0" layoutY="732.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Rectangle fx:id="spot73" arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="51.0" layoutX="283.0" layoutY="656.0" stroke="BLACK" strokeType="INSIDE" width="116.0" />
       <Circle fx:id="spot59" fill="#d20f2d" layoutX="520.0" layoutY="649.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot60" fill="#d20f2d" layoutX="443.0" layoutY="632.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot61" fill="#d20f2d" layoutX="367.0" layoutY="596.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
