@@ -1,12 +1,14 @@
 package application;
 
 import java.net.URL;
+import java.util.ArrayList;
 import java.util.ResourceBundle;
 
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.shape.Circle;
 import javafx.scene.shape.Rectangle;
+import pokeObjects.Player;
 import pokeObjects.Spot;
 
 public class BoardController implements Initializable{
@@ -246,6 +248,8 @@ public class BoardController implements Initializable{
 
 	int none = 0, catchPokemon = 1, drawCards = 2, pokecenter = 3, finalSpot = 4;
 	int pink = 0, green = 1, blue = 2, red = 3, gold = 4;
+	
+	
 
 	@Override
 	public void initialize(URL location, ResourceBundle resources) {
@@ -327,21 +331,6 @@ public class BoardController implements Initializable{
 		spots[73] = new Spot(finalSpot,spot73);
 		spots[74] = new Spot(catchPokemon,spot74,blue);
 		spots[75] = new Spot(catchPokemon,spot75,blue);
-
-
-
-
-
-
-
-		
-
-
-
-
-
-
-
 		
 	}
 	
