@@ -243,7 +243,7 @@ public class BoardController implements Initializable{
 	@FXML
 	private Circle spot75;
 
-	private Spot[] spots = new Spot[76];
+	static private Spot[] spots = new Spot[76];
 
 
 	int none = 0, catchPokemon = 1, drawCards = 2, pokecenter = 3, finalSpot = 4;
@@ -332,14 +332,20 @@ public class BoardController implements Initializable{
 		spots[74] = new Spot(catchPokemon,spot74,blue);
 		spots[75] = new Spot(catchPokemon,spot75,blue);
 		
+		
 	}
-	
-	public void spotClicked(){
-		System.out.println("Spot Clicked");		
 
+	static public void sayHi() {
+		System.out.println("Hello");
+	}
+
+	static public double getSpotX(int spotNumber) {
+		return spots[spotNumber].getCircle().getLayoutX();
 	}
 	
-	
+	static public double getSpotY(int spotNumber) {
+		return spots[spotNumber].getCircle().getLayoutY();
+	}
 	
 	
 }
