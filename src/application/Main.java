@@ -55,11 +55,18 @@ public class Main extends Application {
 					System.out.println("Mouse clicked detected: " + objectClicked[0] + " " + objectClicked[2]);
 					
 					
-					if(objectClicked[2].charAt(0)=='s'){
+					if(objectClicked[2].charAt(0)=='s'&&objectClicked[0].charAt(0)=='C'){
 						int spotIdNumber = Integer.parseInt(objectClicked[2].replaceAll("[^0-9]", ""));
 						System.out.println("Spot Clicked");
 						player1.setX(boardController.getSpotX(spotIdNumber));
 						player1.setY(boardController.getSpotY(spotIdNumber));
+					}
+					
+					if(objectClicked[2].charAt(0)=='s'&&objectClicked[0].charAt(0)=='R'){
+						int spotIdNumber = Integer.parseInt(objectClicked[2].replaceAll("[^0-9]", ""));
+						System.out.println("Spot Clicked");
+						player1.setX(boardController.getCitySpotX(spotIdNumber));
+						player1.setY(boardController.getCitySpotY(spotIdNumber));
 					}
 					
 					
