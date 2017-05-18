@@ -344,18 +344,8 @@ public class BoardController implements Initializable{
 	}
 	
 	static public double getSpotY(int spotNumber) {
-		return spots[spotNumber].getCircle().getLayoutY()-15;
-	}
-
-	static public double getCitySpotX(int spotNumber) {
-		return spots[spotNumber].getRectangle().getLayoutX()+50;
-		
+		return spots[spotNumber].getCircle().getLayoutY();
 	}
 	
-
-	static public double getCitySpotY(int spotNumber) {
-		return spots[spotNumber].getRectangle().getLayoutY()+10;
-		
-	}
 	
 }

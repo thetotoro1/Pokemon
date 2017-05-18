@@ -163,68 +163,68 @@
       <Circle fx:id="spot64" fill="#d20f2d" layoutX="367.0" layoutY="438.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot65" fill="#d20f2d" layoutX="367.0" layoutY="378.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
       <Circle fx:id="spot66" fill="#d20f2d" layoutX="375.0" layoutY="312.0" radius="17.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="132.0" layoutY="613.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="69.0" layoutY="511.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="105.0" layoutY="384.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="229.0" layoutY="317.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="61.0" layoutY="281.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="61.0" layoutY="179.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="144.0" layoutY="137.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="229.0" layoutY="45.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="358.0" layoutY="61.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#ff4c7b" layoutX="375.0" layoutY="196.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="469.0" layoutY="180.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="546.0" layoutY="53.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="626.0" layoutY="61.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="857.0" layoutY="92.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="981.0" layoutY="96.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="1033.0" layoutY="185.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="1204.0" layoutY="145.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="956.0" layoutY="242.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="672.0" layoutY="210.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#186718" layoutX="652.0" layoutY="331.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="836.0" layoutY="362.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1021.0" layoutY="348.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="938.0" layoutY="511.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1192.0" layoutY="340.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1189.0" layoutY="455.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1186.0" layoutY="530.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1071.0" layoutY="602.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="1042.0" layoutY="675.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#003790" layoutX="848.0" layoutY="659.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="667.0" layoutY="758.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="540.0" layoutY="725.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="452.0" layoutY="672.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="327.0" layoutY="542.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="327.0" layoutY="443.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="327.0" layoutY="371.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#d20f2d" layoutX="340.0" layoutY="291.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#e1ae2d" layoutX="1189.0" layoutY="662.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#e1ae2d" layoutX="1274.0" layoutY="662.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#e1ae2d" layoutX="1189.0" layoutY="741.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Circle fill="#e1ae2d" layoutX="1274.0" layoutY="741.0" mouseTransparent="true" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
-      <Text fx:id="C" layoutX="164.0" layoutY="689.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Start Here" />
-      <Text layoutX="160.0" layoutY="671.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Pallet Town" />
-      <Text layoutX="163.0" layoutY="467.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Viridian City" />
-      <Text layoutX="149.0" layoutY="485.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="204.0" layoutY="185.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="461.0" layoutY="313.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="577.0" layoutY="679.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="704.0" layoutY="308.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="1071.0" layoutY="286.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="223.0" layoutY="167.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Pewter City" />
-      <Text layoutX="716.0" layoutY="136.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Cerulean  City" />
-      <Text layoutX="1083.0" layoutY="269.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Lavender Town" />
-      <Text layoutX="716.0" layoutY="286.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Saffron  City" />
-      <Text layoutX="475.0" layoutY="294.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Caladon  City" />
-      <Text layoutX="724.0" layoutY="421.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Vermillion City" />
-      <Text layoutX="707.0" layoutY="433.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Revive 1 Pokemon or" />
-      <Text layoutX="714.0" layoutY="448.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Roll a 1 or 6 for All" />
-      <Text layoutX="697.0" layoutY="151.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Revive 1 Pokemon or" />
-      <Text layoutX="704.0" layoutY="166.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Roll a 1 or 6 for All" />
-      <Text layoutX="594.0" layoutY="661.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Fuchsia City" />
-      <Text layoutX="300.0" layoutY="674.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Cinnabar Island" />
-      <Text layoutX="292.0" layoutY="687.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
-      <Text layoutX="291.0" layoutY="699.0" mouseTransparent="true" strokeType="OUTSIDE" strokeWidth="0.0" text="20 CP to Advance" />
+      <Circle fill="#ff4c7b" layoutX="132.0" layoutY="613.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="69.0" layoutY="511.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="105.0" layoutY="384.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="229.0" layoutY="317.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="61.0" layoutY="281.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="61.0" layoutY="179.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="144.0" layoutY="137.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="229.0" layoutY="45.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="358.0" layoutY="61.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#ff4c7b" layoutX="375.0" layoutY="196.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="469.0" layoutY="180.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="546.0" layoutY="53.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="626.0" layoutY="61.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="857.0" layoutY="92.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="981.0" layoutY="96.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="1033.0" layoutY="185.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="1204.0" layoutY="145.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="956.0" layoutY="242.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="672.0" layoutY="210.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#186718" layoutX="652.0" layoutY="331.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="836.0" layoutY="362.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="1021.0" layoutY="348.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="938.0" layoutY="511.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="1192.0" layoutY="340.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="1189.0" layoutY="455.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="1186.0" layoutY="530.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="1071.0" layoutY="602.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="1042.0" layoutY="675.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#003790" layoutX="848.0" layoutY="659.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="667.0" layoutY="758.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="540.0" layoutY="725.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="452.0" layoutY="672.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="327.0" layoutY="542.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="327.0" layoutY="443.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="327.0" layoutY="371.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#d20f2d" layoutX="340.0" layoutY="291.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#e1ae2d" layoutX="1189.0" layoutY="662.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#e1ae2d" layoutX="1274.0" layoutY="662.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#e1ae2d" layoutX="1189.0" layoutY="741.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Circle fill="#e1ae2d" layoutX="1274.0" layoutY="741.0" radius="31.0" stroke="BLACK" strokeType="INSIDE" strokeWidth="0.0" />
+      <Text fx:id="C" layoutX="164.0" layoutY="689.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Start Here" />
+      <Text layoutX="160.0" layoutY="671.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pallet Town" />
+      <Text layoutX="163.0" layoutY="467.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Viridian City" />
+      <Text layoutX="149.0" layoutY="485.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="204.0" layoutY="185.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="461.0" layoutY="313.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="577.0" layoutY="679.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="704.0" layoutY="308.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="1071.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="223.0" layoutY="167.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Pewter City" />
+      <Text layoutX="716.0" layoutY="136.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cerulean  City" />
+      <Text layoutX="1083.0" layoutY="269.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Lavender Town" />
+      <Text layoutX="716.0" layoutY="286.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Saffron  City" />
+      <Text layoutX="475.0" layoutY="294.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Caladon  City" />
+      <Text layoutX="724.0" layoutY="421.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Vermillion City" />
+      <Text layoutX="707.0" layoutY="433.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Revive 1 Pokemon or" />
+      <Text layoutX="714.0" layoutY="448.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Roll a 1 or 6 for All" />
+      <Text layoutX="697.0" layoutY="151.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Revive 1 Pokemon or" />
+      <Text layoutX="704.0" layoutY="166.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Roll a 1 or 6 for All" />
+      <Text layoutX="594.0" layoutY="661.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Fuchsia City" />
+      <Text layoutX="300.0" layoutY="674.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Cinnabar Island" />
+      <Text layoutX="292.0" layoutY="687.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Draw 2 Item Cards" />
+      <Text layoutX="291.0" layoutY="699.0" strokeType="OUTSIDE" strokeWidth="0.0" text="20 CP to Advance" />
    </children>
 </AnchorPane>

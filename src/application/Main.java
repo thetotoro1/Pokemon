@@ -63,14 +63,20 @@ public class Main extends Application {
 					String[] objectClicked = areaClicked.split("\\s|,|\\[|\\]|=");
 					System.out.println("Mouse clicked detected: " + objectClicked[0] + " " + objectClicked[2]);
 					
+<<<<<<< HEAD
 					//if circle spot
 					if(objectClicked[2].charAt(0)=='s'&&objectClicked[0].charAt(0)=='C'){
+=======
+					
+					if(objectClicked[2].charAt(0)=='s'){
+>>>>>>> parent of 030559b... Mouse Transparent Text/Pokecircles
 						int spotIdNumber = Integer.parseInt(objectClicked[2].replaceAll("[^0-9]", ""));
 						System.out.println("Spot Clicked");
 						player1.setX(boardController.getSpotX(spotIdNumber));
 						player1.setY(boardController.getSpotY(spotIdNumber));
 					}
 					
+<<<<<<< HEAD
 					//if rectangle spot
 					if(objectClicked[2].charAt(0)=='s'&&objectClicked[0].charAt(0)=='R'){
 						int spotIdNumber = Integer.parseInt(objectClicked[2].replaceAll("[^0-9]", ""));
@@ -78,6 +84,16 @@ public class Main extends Application {
 						player1.setX(boardController.getCitySpotX(spotIdNumber));
 						player1.setY(boardController.getCitySpotY(spotIdNumber));
 					}
+=======
+					
+					
+					//System.out.println(boardController.spots[1].getAction());
+
+					
+					//player1.setX(boardController.spots[1].getCircle().getCenterX());
+					//player1.setY(boardController.spots[1].getCircle().getCenterY());
+					
+>>>>>>> parent of 030559b... Mouse Transparent Text/Pokecircles
 					
 				}
 			});
