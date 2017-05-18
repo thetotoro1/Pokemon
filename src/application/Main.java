@@ -65,8 +65,13 @@ public class Main extends Application {
 					
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 					//if circle spot
 					if(objectClicked[2].charAt(0)=='s'&&objectClicked[0].charAt(0)=='C'){
+=======
+					
+					if(objectClicked[2].charAt(0)=='s'){
+>>>>>>> parent of 030559b... Mouse Transparent Text/Pokecircles
 =======
 					
 					if(objectClicked[2].charAt(0)=='s'){
@@ -83,6 +88,7 @@ public class Main extends Application {
 					
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 					//if rectangle spot
 					if(objectClicked[2].charAt(0)=='s'&&objectClicked[0].charAt(0)=='R'){
 						int spotIdNumber = Integer.parseInt(objectClicked[2].replaceAll("[^0-9]", ""));
@@ -91,6 +97,8 @@ public class Main extends Application {
 						player1.setY(boardController.getCitySpotY(spotIdNumber));
 					}
 =======
+=======
+>>>>>>> parent of 030559b... Mouse Transparent Text/Pokecircles
 =======
 >>>>>>> parent of 030559b... Mouse Transparent Text/Pokecircles
 					
