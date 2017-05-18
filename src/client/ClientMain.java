@@ -1,4 +1,4 @@
-package application;
+package client;
 	
 import java.io.DataInputStream;
 import java.io.DataOutputStream;
@@ -23,18 +23,21 @@ import javafx.scene.layout.AnchorPane;
 import javafx.scene.shape.Polygon;
 
 
-public class Main extends Application {
+public class ClientMain extends Application {
 	
 	public int PLAYERCOUNT=0;
+	ObjectInputStream inputFromServer = null;
+	ObjectOutputStream outputToServer = null;
+
 
 	
 	@Override
 	public void start(Stage primaryStage) {
 		try {
 
-			FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("Board.fxml"));
+			FXMLLoader fxmlLoader = new FXMLLoader(getClass().getResource("ClientBoard.fxml"));
 			//AnchorPane root = fxmlLoader.load(getClass().getResource("Board.fxml"));
-			BoardController boardController = (BoardController) fxmlLoader.getController();
+			ClientBoardController boardController = (ClientBoardController) fxmlLoader.getController();
 			fxmlLoader.setController(boardController);
 			AnchorPane root = fxmlLoader.load();
 
@@ -97,35 +100,17 @@ public class Main extends Application {
 		}
 		
 		
-		 new Thread( () -> {
-		      try {
-		        // Create a server socket
-		    	System.out.println("Opening server socket");
-		        ServerSocket serverSocket = new ServerSocket(8022);
-		        //Platform.runLater(() ->textArea.appendText("Server started at " + new Date() + '\n'));
-		  
-		        // Listen for a connection request
-		        Socket socket = serverSocket.accept();
-
-		  
-		        // Create data input and output streams
-		        ObjectInputStream inputFromClient = new ObjectInputStream(socket.getInputStream());
-		        ObjectOutputStream outputToClient = new ObjectOutputStream(socket.getOutputStream());
-		  
-		        while (true) {
-
-			        //Object object = inputFromClient.readObject();
-			        //System.out.println(object);
-
-		        	
-		        }
-		      }
-		      catch(IOException ex) {
-		        ex.printStackTrace();
-		      } catch (ClassNotFoundException e) {
-				e.printStackTrace();
-			}
-		    }).start();
+		try{
+			
+			Socket socket = new Socket("localhost",8022);
+			
+			inputFromServer = new ObjectInputStream(socket.getInputStream());
+			outputToServer = new ObjectOutputStream(socket.getOutputStream());
+			
+		}
+		catch(IOException e){
+			System.out.println(e);
+		}
 		
 	}
 	public static void main(String[] args) {
